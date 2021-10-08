@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{003D20E0-0238-8B53-58DB-ED42BD7F995E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/EarthController.cs">
+    <Files>
+      <File FileName="Assets/EarthController.cs" Line="57" Column="29" />
+      <File FileName="Assets/UIController.cs" Line="29" Column="46" />
+      <File FileName="Assets/EnemyPlanetGenerator.cs" Line="25" Column="50" />
+      <File FileName="Assets/EnemyPlanetController.cs" Line="7" Column="29" />
+      <File FileName="Assets/LifeStar.cs" Line="34" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1b20fdb8-0e73-4c93-b625-69c4f19b1b26" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
