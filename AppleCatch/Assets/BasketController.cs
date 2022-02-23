@@ -14,6 +14,7 @@ public class BasketController : MonoBehaviour
         this.Director = GameObject.Find("GameDirector");
         this.audioSource = GetComponent<AudioSource>();
     }
+    
     private void OnTriggerEnter(Collider other)
     {
         if(other.gameObject.tag == "Apple")
